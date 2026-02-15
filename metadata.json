@@ -1,0 +1,9 @@
+{
+  "name": "HomeServe Pro - هوم سيرف برو",
+  "description": "منصة حجز الخدمات المنزلية الأسرع والأكثر أماناً في مصر. سباكة، كهرباء، تكييف، وأكثر بضمان 30 يوم.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
